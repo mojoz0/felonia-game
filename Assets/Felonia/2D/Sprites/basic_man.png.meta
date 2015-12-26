@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: 98ee31771a9a240c8b1073506784f128
-timeCreated: 1451090622
+guid: 99b46db5f2e2c4bf4a08b310842912ae
+timeCreated: 1451100102
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: dude-sprite_0
-    21300002: dude-sprite_1
-    21300004: dude-sprite_2
+    21300000: basic_man_0
+    21300002: basic_man_1
+    21300004: basic_man_2
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -53,62 +53,62 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: dude-sprite_0
+    - name: basic_man_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 26, y: -40}
-        - {x: 26, y: 24}
-        - {x: 23, y: 41}
-        - {x: 18, y: 50}
-        - {x: -26, y: 50}
-        - {x: -26, y: -50}
-        - {x: -3, y: -50}
-        - {x: -2, y: -48}
-        - {x: -1, y: -50}
-        - {x: 23, y: -50}
-    - name: dude-sprite_1
+      - - {x: 90, y: -104}
+        - {x: 90, y: -40}
+        - {x: 87, y: -23}
+        - {x: 82, y: -14}
+        - {x: 38, y: -14}
+        - {x: 38, y: -114}
+        - {x: 61, y: -114}
+        - {x: 62, y: -112}
+        - {x: 63, y: -114}
+        - {x: 87, y: -114}
+    - name: basic_man_1
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 26, y: 44}
-        - {x: 21, y: 50}
-        - {x: -26, y: 50}
-        - {x: -26, y: -40}
-        - {x: -20, y: -50}
-        - {x: -3, y: -50}
-        - {x: -2, y: -48}
-        - {x: -1, y: -50}
-        - {x: 26, y: -50}
-    - name: dude-sprite_2
+      - - {x: 90, y: -20}
+        - {x: 85, y: -14}
+        - {x: 38, y: -14}
+        - {x: 38, y: -104}
+        - {x: 44, y: -114}
+        - {x: 61, y: -114}
+        - {x: 62, y: -112}
+        - {x: 63, y: -114}
+        - {x: 90, y: -114}
+    - name: basic_man_2
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 128
         height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 26, y: 50}
-        - {x: -26, y: 50}
-        - {x: -26, y: -50}
-        - {x: 26, y: -50}
+      - - {x: 90, y: -14}
+        - {x: 38, y: -14}
+        - {x: 38, y: -114}
+        - {x: 90, y: -114}
     outline: []
   spritePackingTag: 
   userData: 
